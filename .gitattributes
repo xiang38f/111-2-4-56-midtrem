@@ -1,0 +1,2 @@
+emnist-letters-test.csv filter=lfs diff=lfs merge=lfs -text
+emnist-letters-train.csv filter=lfs diff=lfs merge=lfs -text
